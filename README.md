@@ -9,6 +9,8 @@ i also leaved some comments to understand the code.
 
 the rules of the game are:
 
+  - at first both players has six pits and one store each, in each pit the have four seeds.
+
   -The first player chooses a pit on their side of the board and takes all the seeds from it.
   
   -In a counterclockwise direction, the player drops one stone in each pit until they have no seeds left in their hand.
